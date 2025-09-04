@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c4tolu1shdhmi"
+path="res://.godot/imported/hit_00.wav-6fefc1371e4dc6eec2743a1d833e87dc.sample"
+
+[deps]
+
+source_file="res://Rpg Assets/hit_00.wav"
+dest_files=["res://.godot/imported/hit_00.wav-6fefc1371e4dc6eec2743a1d833e87dc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

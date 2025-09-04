@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dwjoi1nowu4q4"
+path="res://.godot/imported/lever-01.wav-1a9047a7d17dcf47f7e6a9b1a5c43cfd.sample"
+
+[deps]
+
+source_file="res://Rpg Assets/lever-01.wav"
+dest_files=["res://.godot/imported/lever-01.wav-1a9047a7d17dcf47f7e6a9b1a5c43cfd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

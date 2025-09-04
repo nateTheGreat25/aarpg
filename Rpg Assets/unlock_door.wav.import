@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ccelh47nxnbfp"
+path="res://.godot/imported/unlock_door.wav-64b251f323ff8e2f20b258e9740b4ead.sample"
+
+[deps]
+
+source_file="res://Rpg Assets/unlock_door.wav"
+dest_files=["res://.godot/imported/unlock_door.wav-64b251f323ff8e2f20b258e9740b4ead.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
